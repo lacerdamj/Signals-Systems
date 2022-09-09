@@ -1,6 +1,6 @@
 # Signals-Systems
 
-This repository contains supplemental material to the course Signals & Systems lectured at the Federal University of São João del-Rei, Brazil.
+This repository contains supplemental material to the course Signals & Systems lectured at the Federal University of São João del-Rei, Brazil. The goal is to illustrate the concepts from the course using Python with Google Colab.
 
 
 [Signal Transformation](https://github.com/lacerdamj/Signals-Systems/blob/42acf1200a6eb046596a462c4fb169686755eab9/Signal_transformation.ipynb)
