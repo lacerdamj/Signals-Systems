@@ -1,6 +1,6 @@
 # Signals-Systems
 
-This repository contains material used in the course Signals & Systems.
+This repository contains supplemental material to the course Signals & Systems lectured at the Federal University of São João del-Rei, Brazil.
 
 
 [Signal Transformation](https://github.com/lacerdamj/Signals-Systems/blob/42acf1200a6eb046596a462c4fb169686755eab9/Signal_transformation.ipynb)
